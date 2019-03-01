@@ -44,6 +44,3 @@ Data scraped from subreddits are the [psychology](https://www.reddit.com/r/psych
   * a few model flow charts denoted with psycho-or-mentalhealth prefix
   * other images contain misnamed versions of above, the background image for wordclouds, and histogram comparing words across both subreddits.
 <br><br>
-4. **_Misc_** Folder, 3 Files
-  * 2 files regarding project instructions
-  * 1 file as a template for KatyChow_README.md file on first page
